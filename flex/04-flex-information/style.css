@@ -21,6 +21,7 @@ img {
 
 .content {
   display: flex;
+  gap: 52px;
 }
 
 .item {
