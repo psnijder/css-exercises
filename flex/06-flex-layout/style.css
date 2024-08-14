@@ -35,6 +35,10 @@ input {
   padding: 18px;
 }
 
+.footer {
+  background-color: #eee;
+}
+
 .left-links,
 .right-links {
   display: flex;
