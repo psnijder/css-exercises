@@ -82,3 +82,7 @@ button.cancel {
   justify-content: space-between;
   align-items: center;
 }
+
+.header h3 {
+  margin: 0px;
+}
