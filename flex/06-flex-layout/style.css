@@ -32,4 +32,13 @@ input {
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 18px;
+}
+
+.left-links,
+.right-links {
+  display: flex;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
 }
