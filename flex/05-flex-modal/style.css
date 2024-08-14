@@ -73,3 +73,7 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.header {
+  display: flex;
+}
