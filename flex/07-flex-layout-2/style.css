@@ -42,6 +42,7 @@ body {
 .content {
   display: flex;
   flex-wrap: wrap;
+  padding: 48px;
 }
 
 .card {
